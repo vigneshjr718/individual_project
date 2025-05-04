@@ -1,0 +1,6 @@
+[APM] {"metric": "cpu_usage", "value": 45.2, "timestamp": "2024-03-20T10:00:00Z"}
+[APM] {"metric": "memory_usage", "value": 60.5, "timestamp": "2024-03-20T10:00:01Z"}
+[APP] {"level": "INFO", "message": "Application started", "timestamp": "2024-03-20T10:00:02Z"}
+[APP] {"level": "ERROR", "message": "Failed to connect to database", "timestamp": "2024-03-20T10:00:03Z"}
+[REQ] {"method": "GET", "path": "/api/users", "status": 200, "duration": 150, "timestamp": "2024-03-20T10:00:04Z"}
+[REQ] {"method": "POST", "path": "/api/orders", "status": 201, "duration": 200, "timestamp": "2024-03-20T10:00:05Z"} 

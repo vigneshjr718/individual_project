@@ -1,0 +1,14 @@
+{
+  "memory_usage": {
+    "average": 60.5,
+    "median": 60.5,
+    "max": 60.5,
+    "minimum": 60.5
+  },
+  "cpu_usage": {
+    "average": 45.2,
+    "median": 45.2,
+    "max": 45.2,
+    "minimum": 45.2
+  }
+}

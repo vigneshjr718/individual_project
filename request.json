@@ -1,0 +1,32 @@
+{
+  "/api/users": {
+    "response_times": {
+      "95_percentile": 150,
+      "90_percentile": 150,
+      "min": 150,
+      "max": 150,
+      "50_percentile": 150,
+      "99_percentile": 150
+    },
+    "status_codes": {
+      "2XX": 1,
+      "4XX": 0,
+      "5XX": 0
+    }
+  },
+  "/api/orders": {
+    "response_times": {
+      "95_percentile": 200,
+      "90_percentile": 200,
+      "min": 200,
+      "max": 200,
+      "50_percentile": 200,
+      "99_percentile": 200
+    },
+    "status_codes": {
+      "2XX": 1,
+      "4XX": 0,
+      "5XX": 0
+    }
+  }
+}
